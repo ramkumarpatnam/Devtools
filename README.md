@@ -2,6 +2,7 @@
 - A list of useful Web Development, Web tools and libraries for the Development &amp; more.
 - Use Ctrl + F to search for a specific keyword, for ex. "chart"
 
+## Tools
 * million | Optimize React performance and make your React 70% faster in minutes - https://github.com/aidenybai/million
 * Google webmaster guidelines - https://varvy.com/
 * Site analizer - https://www.site-analyzer.com/
